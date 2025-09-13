@@ -1,0 +1,22 @@
+[2025-09-13 17:02:11] Service Started.
+[2025-09-13 17:02:27] Database backup successful: C:\DatabaseBackups\Backup_20250913_170226.bak
+[2025-09-13 17:02:41] Database backup successful: C:\DatabaseBackups\Backup_20250913_170241.bak
+[2025-09-13 17:02:56] Database backup successful: C:\DatabaseBackups\Backup_20250913_170256.bak
+[2025-09-13 17:03:11] Database backup successful: C:\DatabaseBackups\Backup_20250913_170311.bak
+[2025-09-13 17:03:26] Database backup successful: C:\DatabaseBackups\Backup_20250913_170326.bak
+[2025-09-13 17:03:39] Service Stopped.
+[2025-09-13 17:04:53] Service Started.
+[2025-09-13 17:05:08] Error during backup: Network-related or instance-specific error occurred while establishing a connection to SQL Server.
+[2025-09-13 17:05:18] Connection string is missing, and the service is stopped.
+[2025-09-13 17:05:18] Service Stopped.
+[2025-09-13 17:05:18] Service Started.
+[2025-09-13 17:05:28] Service Stopped.
+[2025-09-13 17:06:53] Service Started.
+[2025-09-13 17:07:21] Service Stopped.
+[2025-09-13 17:07:45] Service Started.
+[2025-09-13 17:08:00] Database backup successful: C:\DatabaseBackups\Backup_20250913_170800.bak
+[2025-09-13 17:08:05] Service Stopped.
+[2025-09-13 17:28:01] Service Started.
+[2025-09-13 17:28:25] Service Stopped.
+[2025-09-13 18:19:26] Service Started.
+[2025-09-13 18:19:41] Service Stopped.
