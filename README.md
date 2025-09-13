@@ -18,7 +18,7 @@ A Windows service that backs up a specified database at each specified interval.
 ### Stop Service:
 1. Open the command prompt in administrator mode.
 2. Use this command: sc stop DatabaseBackupService
-# Uninstallation (Using IntallUtil):
+# Uninstallation (Using InstallUtil):
 1. Open the command prompt in administrator mode.
 2. Use the following command:
    - for 64-bit systems: C:\Windows\Microsoft.NET\Framework64\v4.0.30319\InstallUtil.exe -u DatabaseBackupService.exe
